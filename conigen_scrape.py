@@ -1,6 +1,3 @@
-# 
-
-
 # Instructions to operate script using VSCode:
 # Please hit the run button at the top right corner of the window to operate the script (right facing triangle)
 # A Chrome browser window will pop up, do not panic! This means the script is working, please leave the window open as it will close on its own
